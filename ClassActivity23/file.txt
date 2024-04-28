@@ -1,0 +1,5 @@
+Flower     Color      Meaning   
+rose       red        romance   
+lily       white      purity    
+lilac      purple     sweetness 
+lavender   purple     freedom   

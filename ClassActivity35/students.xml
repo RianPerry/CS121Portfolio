@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student id="1">
+        <firstName>Michael</firstName>
+        <lastName>Johnson</lastName>
+        <year>Freshman</year>
+    </student>
+    <student id="2">
+        <firstName>Elizabeth</firstName>
+        <lastName>Addison</lastName>
+        <year>Junior</year>
+    </student>
+    <student id="3">
+        <firstName>Echo</firstName>
+        <lastName>Michaels</lastName>
+        <year>Senior</year>
+    </student>
+</students>
