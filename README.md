@@ -1,6 +1,8 @@
 #CS121 Portfolio
 <h1 align="center">Hi :wave:, I'm Adrian Perry</h1>
-<h3 align="center">A passionate CS student</h3>
+<h2 align="center">A passionate CS student</h3>
+
+<h3 align="left">Some of my projects from this semester (Spring 2024):</h3>
 
 | Number | Item | Description |
 | ----- | ----- | ----- |
